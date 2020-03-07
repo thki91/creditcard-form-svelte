@@ -3,7 +3,7 @@
 
 I created this project because I always wanted to try out svelte. Found the inspration for it in [this article](https://medium.com/better-programming/here-are-6-frontend-challenges-to-code-9952190c97cc).
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/preview.png "Credit card form with svelte preview")
+![alt text](https://github.com/thki91/creditcard-form-svelte/blob/master/preview.png?raw=true, 'Creditcard Form with svelte')
 
 ---
 
