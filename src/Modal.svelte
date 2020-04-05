@@ -65,7 +65,6 @@
   export let validUntilMonth;
   export let validUntilYear;
   export let cvv;
-  export let isBack;
   export let showModal;
   export let handleCloseModal;
 </script>
