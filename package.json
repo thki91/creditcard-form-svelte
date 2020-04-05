@@ -2,6 +2,7 @@
   "name": "svelte-app",
   "version": "1.0.0",
   "scripts": {
+    "preinstall": "npx npm-force-resolutions",
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public"
@@ -9,6 +10,7 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^11.0.0",
     "@rollup/plugin-node-resolve": "^7.0.0",
+    "minimist": "^1.2.5",
     "rollup": "^1.32.1",
     "rollup-plugin-livereload": "^1.1.0",
     "rollup-plugin-svelte": "^5.2.1",
